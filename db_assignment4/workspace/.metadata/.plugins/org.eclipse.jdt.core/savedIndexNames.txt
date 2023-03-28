@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+C:\Users\Dora\Desktop\çÏã∆desu\dataBase\db_assignment4_final\workspace\.metadata\.plugins\org.eclipse.jdt.core
+149523813.index
+2425123857.index
+2762097009.index
+3161901184.index
+3070680927.index
+2581375649.index
+1224380683.index
+1786019095.index
+82689741.index
